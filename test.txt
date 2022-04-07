@@ -1,0 +1,6 @@
+Int a = 4
+
+funct double x
+  _ -> 2 * x
+
+Int b = double a
