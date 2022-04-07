@@ -1,0 +1,2 @@
+# GloPlo
+Simple functional language
